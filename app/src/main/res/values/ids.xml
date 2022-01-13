@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="frameLayout1" type="id" />
+    <item name="constraintLayout1" type="id" />
+    <item name="constraintLayout2" type="id" />
+    <item name="constraintLayout3" type="id" />
+    <item name="constraintLayout4" type="id" />
+</resources>
